@@ -8,6 +8,9 @@ TagManager:
   - brownBox
   - blueDot
   - ground
+  - player
+  - winScreen
+  - winText
   layers:
   - Default
   - TransparentFX
